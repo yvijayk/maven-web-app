@@ -1,1 +1,1 @@
-welcome to build 1.0  version lateet 18 after cicd 1
+welcome to build 1.0  version lateet 18 after cicd 2
